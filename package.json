@@ -7,12 +7,12 @@
   "author": "winwin2011 <yjh2011@live.com>",
   "license": "MIT",
   "funding": "https://github.com/sponsors/YuJianghao",
-  "homepage": "https://github.com/YuJianghao/hexo-on#readme",
+  "homepage": "https://github.com/gethexon/hexo-on#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YuJianghao/hexo-on.git"
+    "url": "git+https://github.com/gethexon/hexo-on.git"
   },
-  "bugs": "https://github.com/YuJianghao/hexo-on/issues",
+  "bugs": "https://github.com/gethexon/hexo-on/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
