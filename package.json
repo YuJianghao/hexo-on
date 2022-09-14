@@ -1,7 +1,7 @@
 {
   "name": "hexo-on",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "packageManager": "pnpm@7.9.0",
   "description": "",
   "author": "winwin2011 <yjh2011@live.com>",
